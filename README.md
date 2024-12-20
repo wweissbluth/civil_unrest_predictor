@@ -4,7 +4,7 @@
 This repository demonstrates the use of a machine learning model to predict civil unrest in Chicago by analyzing real-time and historical data from the GDELT dataset.
 
 ## **Methodology**
-The machine learning model is designed to analyze real-time event reporting by the GDELT. By leveraging patterns in the data, the model predicts the likelihood of civil unrest events.
+We'll use an RNN model, taking a vector of 7 days of sequential data to predict the 8th day. We'll build off this, incorporating more labels as needed. We may choose to predict 2 or 3 days into the future as well. 
 
 ## **Data**
 ### **Labels**
