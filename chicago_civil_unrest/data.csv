@@ -61,19 +61,19 @@ SQLDATE,EventCode,ActionGeo_FullName,ActionGeo_Lat,ActionGeo_Long,AvgTone
 20200816,145,"Near North Side, Illinois, United States",41.9,-87.6345,-8.65384615384615
 20200815,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.470715835141
 20200815,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.470715835141
-20200815,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.470715835141
-20200815,145,"Water Tower Place, Illinois, United States",41.8978,-87.6237,-2.88248337028824
-20200815,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.470715835141
 20200815,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-7.03517587939698
 20200815,145,"Water Tower Place, Illinois, United States",41.8978,-87.6237,-1.3968367117871
 20200815,145,"Water Tower Place, Illinois, United States",41.8978,-87.6237,-2.88248337028824
+20200815,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.470715835141
+20200815,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.470715835141
+20200815,145,"Water Tower Place, Illinois, United States",41.8978,-87.6237,-2.88248337028824
+20200814,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.61525447819102
 20200814,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.61525447819102
 20200814,145,"Streeterville, Illinois, United States",41.8934,-87.622,-4.18674475498555
+20200814,145,"Streeterville, Illinois, United States",41.8934,-87.622,-3.49544072948329
+20200814,145,"Streeterville, Illinois, United States",41.8934,-87.622,-3.49544072948329
 20200814,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.61525447819102
 20200814,145,"Water Tower Place, Illinois, United States",41.8978,-87.6237,-2.63157894736842
-20200814,145,"Streeterville, Illinois, United States",41.8934,-87.622,-3.49544072948329
-20200814,145,"Streeterville, Illinois, United States",41.8934,-87.622,-3.49544072948329
-20200814,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.61525447819102
 20200814,145,"Water Tower Place, Illinois, United States",41.8978,-87.6237,-2.63157894736842
 20200814,145,"Streeterville, Illinois, United States",41.8934,-87.622,-3.49544072948329
 20200814,145,"Water Tower Place, Illinois, United States",41.8978,-87.6237,-2.63157894736842
@@ -85,23 +85,23 @@ SQLDATE,EventCode,ActionGeo_FullName,ActionGeo_Lat,ActionGeo_Long,AvgTone
 20200813,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.8825310097746
 20200813,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.77539837634817
 20200812,145,"Near West Side, Illinois, United States",41.88,-87.6667,-6.80473372781065
-20200812,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-5.97658656808379
 20200812,145,"Near West Side, Illinois, United States",41.88,-87.6667,-6.80473372781065
-20200811,145,"Northwestern Memorial Hospital, Illinois, United States",41.8946,-87.622,-6.79795914550854
+20200812,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-5.97658656808379
 20200811,145,"University Of Illinois At Chicago, Illinois, United States",41.872,-87.6492,-9.09100491177774
+20200811,145,"Northwestern Memorial Hospital, Illinois, United States",41.8946,-87.622,-6.79795914550854
 20200811,145,"University Of Illinois At Chicago, Illinois, United States",41.872,-87.6492,-9.09100491177774
 20200811,145,"University Of Illinois At Chicago, Illinois, United States",41.872,-87.6492,-9.09100491177774
 20200811,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-5.38745387453875
 20200811,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-9.58904109589042
 20200811,145,"Northwestern Memorial Hospital, Illinois, United States",41.8946,-87.622,-6.61598026038636
 20200811,145,"University Of Illinois At Chicago, Illinois, United States",41.872,-87.6492,-9.09100491177774
-20200810,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-5.87583148558759
 20200810,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-7.26027397260274
-20200810,145,"Near North Side, Illinois, United States",41.9,-87.6345,-7.15250965250965
 20200810,145,"Near North Side, Illinois, United States",41.9,-87.6345,-7.14285714285714
+20200810,145,"Near North Side, Illinois, United States",41.9,-87.6345,-7.15250965250965
 20200810,145,"Chicago Theater, Illinois, United States",41.8853,-87.6273,-5.87583148558759
 20200810,145,"Northwestern Memorial Hospital, Illinois, United States",41.8946,-87.622,-6.73076923076923
 20200810,145,"Water Tower Place, Illinois, United States",41.8978,-87.6237,-5.46139359698681
+20200810,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-5.87583148558759
 20200807,145,"Cornell University, Illinois, United States",41.8803,-87.6326,-4.3640897755611
 20200807,145,"Cornell University, Illinois, United States",41.8803,-87.6326,-4.3640897755611
 20200803,145,"Chicago City Hall, Illinois, United States",41.8839,-87.632,-6.90010298661174
@@ -121,23 +121,23 @@ SQLDATE,EventCode,ActionGeo_FullName,ActionGeo_Lat,ActionGeo_Long,AvgTone
 20200607,145,"University Of Illinois At Chicago, Illinois, United States",41.872,-87.6492,-4.58015267175572
 20200606,145,"Union Park, Illinois, United States",41.8839,-87.6648,-2.78884462151395
 20200605,145,"Herald Square, Illinois, United States",41.887,-87.627,-5.58789289871944
-20200603,145,"Wicker Park, Illinois, United States",41.9075,-87.677,-4.54545454545455
 20200603,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-2.1505376344086
 20200603,145,"Wicker Park, Illinois, United States",41.9075,-87.677,-4.54545454545455
+20200603,145,"Wicker Park, Illinois, United States",41.9075,-87.677,-4.54545454545455
 20200602,145,"Wicker Park, Illinois, United States",41.9075,-87.677,-1.79640718562874
+20200601,145,"Wicker Park, Illinois, United States",41.9075,-87.677,-7.31132075471698
 20200601,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-6.81721346399659
 20200601,145,"Wicker Park, Illinois, United States",41.9075,-87.677,-7.31132075471698
-20200601,145,"Wicker Park, Illinois, United States",41.9075,-87.677,-7.31132075471698
-20200531,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-3.03030303030303
 20200531,145,"Wrigley Building, Illinois, United States",41.8898,-87.6248,-6.90300199528387
 20200531,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-6.97767892369604
+20200531,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-3.03030303030303
 20190812,145,"University Of Illinois At Chicago, Illinois, United States",41.872,-87.6492,-9.09100491177774
 20180507,145,"Near West Side, Illinois, United States",41.88,-87.6667,-10.3092783505155
 20180507,145,"Near West Side, Illinois, United States",41.88,-87.6667,-10.3092783505155
 20180307,145,"School Of The Art Institute Of Chicago, Illinois, United States",41.8789,-87.6217,-2.26986128625473
 20170618,145,"Millenium Park, Illinois, United States",41.8828,-87.6228,-3.13199105145414
-20170618,145,"Millenium Park, Illinois, United States",41.8828,-87.6228,-3.72815768788923
 20170618,145,"Millenium Park, Illinois, United States",41.8828,-87.6228,-3.13199105145414
+20170618,145,"Millenium Park, Illinois, United States",41.8828,-87.6228,-3.72815768788923
 20161021,145,"University Of Illinois At Chicago, Illinois, United States",41.872,-87.6492,-4.16171224732462
 20160322,145,"University Of Illinois At Chicago, Illinois, United States",41.872,-87.6492,-1.84696569920844
 20160320,145,"University Of Illinois At Chicago, Illinois, United States",41.872,-87.6492,-7.41721854304636
