@@ -38,10 +38,10 @@ Date,EventCode,ActionGeo_FullName,ActionGeo_Lat,ActionGeo_Long,AvgTone
 2020-12-09,145,"Near West Side, Illinois, United States",41.88,-87.6667,-13.8888888888889
 2020-12-09,145,"Near West Side, Illinois, United States",41.88,-87.6667,-13.8888888888889
 2020-11-20,145,"Near North Side, Illinois, United States",41.9,-87.6345,-10.5263157894737
-2020-11-04,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-5.33770734245367
-2020-11-04,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-5.33770734245367
 2020-11-04,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-4.16297608503101
 2020-11-04,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-4.16297608503101
+2020-11-04,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-5.33770734245367
+2020-11-04,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-5.33770734245367
 2020-10-02,145,"Rush University Medical Center, Illinois, United States",41.8735,-87.6681,-5.60152768936982
 2020-09-19,145,"Near North Side, Illinois, United States",41.9,-87.6345,-13.0434782608696
 2020-09-07,145,"Wicker Park, Illinois, United States",41.9075,-87.677,-8.47457627118644
@@ -60,18 +60,17 @@ Date,EventCode,ActionGeo_FullName,ActionGeo_Lat,ActionGeo_Long,AvgTone
 2020-08-16,145,"Near North Side, Illinois, United States",41.9,-87.6345,-8.65384615384615
 2020-08-16,145,"Near North Side, Illinois, United States",41.9,-87.6345,-8.65384615384615
 2020-08-15,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.470715835141
-2020-08-15,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-7.03517587939698
-2020-08-15,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.470715835141
 2020-08-15,145,"Water Tower Place, Illinois, United States",41.8978,-87.6237,-2.88248337028824
+2020-08-15,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.470715835141
+2020-08-15,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-7.03517587939698
 2020-08-15,145,"Water Tower Place, Illinois, United States",41.8978,-87.6237,-1.3968367117871
 2020-08-15,145,"Water Tower Place, Illinois, United States",41.8978,-87.6237,-2.88248337028824
 2020-08-15,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.470715835141
 2020-08-15,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.470715835141
-2020-08-14,145,"Streeterville, Illinois, United States",41.8934,-87.622,-3.49544072948329
-2020-08-14,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.61525447819102
 2020-08-14,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.61525447819102
 2020-08-14,145,"Streeterville, Illinois, United States",41.8934,-87.622,-4.18674475498555
 2020-08-14,145,"Streeterville, Illinois, United States",41.8934,-87.622,-3.49544072948329
+2020-08-14,145,"Streeterville, Illinois, United States",41.8934,-87.622,-3.49544072948329
 2020-08-14,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.61525447819102
 2020-08-14,145,"Water Tower Place, Illinois, United States",41.8978,-87.6237,-2.63157894736842
 2020-08-14,145,"Water Tower Place, Illinois, United States",41.8978,-87.6237,-2.63157894736842
@@ -79,9 +78,10 @@ Date,EventCode,ActionGeo_FullName,ActionGeo_Lat,ActionGeo_Long,AvgTone
 2020-08-14,145,"Water Tower Place, Illinois, United States",41.8978,-87.6237,-2.63157894736842
 2020-08-14,145,"Water Tower Place, Illinois, United States",41.8978,-87.6237,-2.63157894736842
 2020-08-14,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.61525447819102
-2020-08-13,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.95409367104194
-2020-08-13,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.95409367104194
+2020-08-14,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.61525447819102
 2020-08-13,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.8825310097746
+2020-08-13,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.95409367104194
+2020-08-13,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.95409367104194
 2020-08-13,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.8825310097746
 2020-08-13,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.77539837634817
 2020-08-12,145,"Near West Side, Illinois, United States",41.88,-87.6667,-6.80473372781065
@@ -95,20 +95,20 @@ Date,EventCode,ActionGeo_FullName,ActionGeo_Lat,ActionGeo_Long,AvgTone
 2020-08-11,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-9.58904109589042
 2020-08-11,145,"Northwestern Memorial Hospital, Illinois, United States",41.8946,-87.622,-6.61598026038636
 2020-08-11,145,"University Of Illinois At Chicago, Illinois, United States",41.872,-87.6492,-9.09100491177774
-2020-08-10,145,"Near North Side, Illinois, United States",41.9,-87.6345,-7.14285714285714
+2020-08-10,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-5.87583148558759
 2020-08-10,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-7.26027397260274
-2020-08-10,145,"Water Tower Place, Illinois, United States",41.8978,-87.6237,-5.46139359698681
+2020-08-10,145,"Near North Side, Illinois, United States",41.9,-87.6345,-7.15250965250965
+2020-08-10,145,"Near North Side, Illinois, United States",41.9,-87.6345,-7.14285714285714
 2020-08-10,145,"Chicago Theater, Illinois, United States",41.8853,-87.6273,-5.87583148558759
 2020-08-10,145,"Northwestern Memorial Hospital, Illinois, United States",41.8946,-87.622,-6.73076923076923
-2020-08-10,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-5.87583148558759
-2020-08-10,145,"Near North Side, Illinois, United States",41.9,-87.6345,-7.15250965250965
+2020-08-10,145,"Water Tower Place, Illinois, United States",41.8978,-87.6237,-5.46139359698681
 2020-08-07,145,"Cornell University, Illinois, United States",41.8803,-87.6326,-4.3640897755611
 2020-08-07,145,"Cornell University, Illinois, United States",41.8803,-87.6326,-4.3640897755611
 2020-08-03,145,"Chicago City Hall, Illinois, United States",41.8839,-87.632,-6.90010298661174
 2020-08-02,145,"Chicago City Hall, Illinois, United States",41.8839,-87.632,-6.90721649484536
 2020-07-29,145,"Chicago City Hall, Illinois, United States",41.8839,-87.632,-7.90273556231001
-2020-07-24,145,"Arrigo Park, Illinois, United States",41.8717,-87.6601,-5.12882447665057
 2020-07-24,145,"Arrigo Park, Illinois, United States",41.8717,-87.6601,-5.38934247293049
+2020-07-24,145,"Arrigo Park, Illinois, United States",41.8717,-87.6601,-5.12882447665057
 2020-07-23,145,"Chicago City Hall, Illinois, United States",41.8839,-87.632,-6.75340946041583
 2020-07-22,145,"Chicago City Hall, Illinois, United States",41.8839,-87.632,-7.03228799368485
 2020-07-15,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.04449648711943
@@ -121,16 +121,16 @@ Date,EventCode,ActionGeo_FullName,ActionGeo_Lat,ActionGeo_Long,AvgTone
 2020-06-07,145,"University Of Illinois At Chicago, Illinois, United States",41.872,-87.6492,-4.58015267175572
 2020-06-06,145,"Union Park, Illinois, United States",41.8839,-87.6648,-2.78884462151395
 2020-06-05,145,"Herald Square, Illinois, United States",41.887,-87.627,-5.58789289871944
+2020-06-03,145,"Wicker Park, Illinois, United States",41.9075,-87.677,-4.54545454545455
 2020-06-03,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-2.1505376344086
 2020-06-03,145,"Wicker Park, Illinois, United States",41.9075,-87.677,-4.54545454545455
-2020-06-03,145,"Wicker Park, Illinois, United States",41.9075,-87.677,-4.54545454545455
 2020-06-02,145,"Wicker Park, Illinois, United States",41.9075,-87.677,-1.79640718562874
+2020-06-01,145,"Wicker Park, Illinois, United States",41.9075,-87.677,-7.31132075471698
 2020-06-01,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-6.81721346399659
 2020-06-01,145,"Wicker Park, Illinois, United States",41.9075,-87.677,-7.31132075471698
-2020-06-01,145,"Wicker Park, Illinois, United States",41.9075,-87.677,-7.31132075471698
-2020-05-31,145,"Wrigley Building, Illinois, United States",41.8898,-87.6248,-6.90300199528387
-2020-05-31,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-6.97767892369604
 2020-05-31,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-3.03030303030303
+2020-05-31,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-6.97767892369604
+2020-05-31,145,"Wrigley Building, Illinois, United States",41.8898,-87.6248,-6.90300199528387
 2019-08-12,145,"University Of Illinois At Chicago, Illinois, United States",41.872,-87.6492,-9.09100491177774
 2018-05-07,145,"Near West Side, Illinois, United States",41.88,-87.6667,-10.3092783505155
 2018-05-07,145,"Near West Side, Illinois, United States",41.88,-87.6667,-10.3092783505155
@@ -162,8 +162,8 @@ Date,EventCode,ActionGeo_FullName,ActionGeo_Lat,ActionGeo_Long,AvgTone
 2022-03-06,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-8.11554332874827
 2021-04-16,145,"School Of The Art Institute Of Chicago, Illinois, United States",41.8789,-87.6217,-1.22591943957969
 2020-12-17,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-1.67973124300112
-2020-11-04,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-5.33770734245367
 2020-11-04,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-4.16297608503101
+2020-11-04,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-5.33770734245367
 2020-11-04,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-5.33770734245367
 2020-11-04,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-4.16297608503101
 2020-09-02,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-8.28729281767953
@@ -175,18 +175,18 @@ Date,EventCode,ActionGeo_FullName,ActionGeo_Lat,ActionGeo_Long,AvgTone
 2020-08-17,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.66132723112128
 2020-08-17,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.66132723112128
 2020-08-17,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.66132723112128
-2020-08-15,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.470715835141
 2020-08-15,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.470715835141
 2020-08-15,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-7.03517587939698
 2020-08-15,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.470715835141
 2020-08-15,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.470715835141
+2020-08-15,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.470715835141
 2020-08-14,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.61525447819102
 2020-08-14,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.61525447819102
 2020-08-14,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.61525447819102
 2020-08-14,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.61525447819102
+2020-08-13,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.95409367104194
 2020-08-13,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.95409367104194
 2020-08-13,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.8825310097746
-2020-08-13,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.95409367104194
 2020-08-13,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.8825310097746
 2020-08-13,145,"Chicago Loop, Illinois, United States",41.8811,-87.6298,-3.77539837634817
 2020-08-12,145,"Chicago River, Illinois, United States",41.8867,-87.6373,-5.97658656808379
